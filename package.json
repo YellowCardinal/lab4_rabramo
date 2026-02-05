@@ -1,0 +1,24 @@
+{
+  "name": "lab4_rabramo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YellowCardinal/lab4_rabramo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/YellowCardinal/lab4_rabramo/issues"
+  },
+  "homepage": "https://github.com/YellowCardinal/lab4_rabramo#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
